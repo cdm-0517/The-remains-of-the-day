@@ -1,1 +1,3 @@
 site_name: 长日将尽
+theme:
+    name: bootstrap4
