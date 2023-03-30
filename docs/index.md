@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# 长日将尽
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Members
 
-## Commands
+| **Name** | **ID**  | Grade | Profession |
+| -------- | ------- | ----- | ---------- |
+| 储德明   |         |       | CS         |
+| 姜梓恒   |         |       |            |
+| 朱泽凯   | hehepig | 2020  |            |
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## onsite
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Comment:
+
+- O for passing during the contest
+- Ø for passing after the contest
+- ! for attempted but failed
+- · for having not attempted yet
+
+|        Name        |   Date    | Award |  Rank  | Solved |  A   |  B   |  C   |  D   |  E   |  F   |  G   |  H   |  I   |  J   |  K   |  L   |  M   |  N   |
+| :----------------: | :-------: | :---: | :----: | :----: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 2022 ICPC EC Final | 2023-3-25 |  Au   | 24/314 |        |      |      |      |      |      |      |      |      |      |      |      |  O   |      |      |
