@@ -1,22 +1,11 @@
 site_name: 长日将尽
-site_url: https://cdm-0517.github.io/The-remains-of-the-day/
-theme:
-    name: windmill
+theme: windmill
 
 nav:
-  - Main page: index.md
-  - Solutions: 
-    - Codeforces contests: empty.md
-    - Codeforces Gym: empty.md
-    - Codeforces Problem set: empty.md  
-  - Library: 
-    - Geometry: Library/geometry.md
-
-extra_css:
-  - |
-    .md-sidebar {
-      width: 10%;
-    }
-    .md-content {
-      width: 90%;
-    }
+    - Main page: index.md
+    - Solutions: 
+        - Codeforces contests: empty.md
+        - Codeforces Gym: empty.md
+        - Codeforces Problemset: empty.md
+    - Library: 
+        - Geometry: Library/Geometry.md
