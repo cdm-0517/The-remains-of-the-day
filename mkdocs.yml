@@ -6,6 +6,6 @@ theme:
 nav:
     - Main page: index.md
     - Solutions: 
-        - Codeforces contests:
-        - Codeforces Gym:
-    - Library:
+        - Codeforces contests:null
+        - Codeforces Gym:null
+    - Library:null
