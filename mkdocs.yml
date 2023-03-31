@@ -1,3 +1,11 @@
 site_name: 长日将尽
+site_url: https://cdm-0517.github.io/The-remains-of-the-day/
 theme:
     name: bootstrap4
+
+nav:
+    - Main page: index.md
+    - Solutions: 
+        - Codeforces contests:
+        - Codeforces Gym:
+    - Library:
