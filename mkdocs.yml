@@ -1,7 +1,7 @@
 site_name: 长日将尽
 site_url: https://cdm-0517.github.io/The-remains-of-the-day/
 theme:
-    name: material
+    name: bootstrap386
 
 nav:
   - Main page: index.md
@@ -11,3 +11,12 @@ nav:
     - Codeforces Problem set: empty.md  
   - Library: 
     - Geometry: Library/geometry.md
+
+extra_css:
+  - |
+    .md-sidebar {
+      width: 10%;
+    }
+    .md-content {
+      width: 90%;
+    }
